@@ -6,6 +6,8 @@ Wymagania:
 - dwa równoległe porty LPT,
 - port gier (DB15).
 
+Kompilacji należy dokonać w Turbo Pascal 7.01, z patchem modułu crt2 dla procesorów szybszych od/równych prędkością Intel Pentium 200MHz
+
 TODO:
 Dodać schematy, przetłumaczyć na EN.
 
